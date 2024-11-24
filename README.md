@@ -84,11 +84,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## 📌Author
 
-👤 **Kishan Kumar Rai**
+👤 **Prashant Atmaram Pawar**
 
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
+- Github: [@itpap]([https://github.com/kishanrajput23](https://github.com/itpap))
+- LinkedIn: [@prashant-pawar-a4a0a3218]([https://linkedin.com/in/kishan-kumar-rai-23112000](https://www.linkedin.com/in/prashant-pawar-a4a0a3218/))
 
 ## 📌Show your support
 
